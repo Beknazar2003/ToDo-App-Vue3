@@ -96,7 +96,7 @@
     transform: translateY(0);
   }
   100% {
-    transform: translateY(-700px) rotate(600deg);
+    transform: translateY(-150vh) rotate(600deg);
   }
 }
 @keyframes square {
@@ -104,6 +104,6 @@
     transform: translateY(0);
   }
   100% {
-    transform: translateY(-700px) rotate(600deg);
+    transform: translateY(-150vh) rotate(600deg);
   }
 }
